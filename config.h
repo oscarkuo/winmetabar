@@ -1,0 +1,4 @@
+#pragma once
+
+#define WMBAR_LEFTMARGIN    (48*2+2)
+#define WMBAR_NUMBERIMAGE   IDI_NUMBERS_100_RANSOM
